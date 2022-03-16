@@ -12,16 +12,16 @@ Other required software packages are:
     the stellar pulsation code GYRE (https://gyre.readthedocs.io/)
 
 If the LPV-simulations software package is used, please reference:
-    Prat et al. (2019)
-    (https://ui.adsabs.harvard.edu/abs/2019A%26A...627A..64P/abstract)
 
-    Van Reeth et al. (submitted)
-    (--)
+- Prat et al. (2019) (https://ui.adsabs.harvard.edu/abs/2019A%26A...627A..64P/abstract)
+
+- Van Reeth et al. (submitted)
+
+- We refer the user to the websites of MESA, GYRE and the various python packages for the most up-to-date acknowledgement requirements for these codes.
     
-    We refer the user to the websites of MESA, GYRE and the various python packages for the most up-to-date acknowledgement requirements for these codes.
-    
+
 To use the LPV-simulations code, adapt the contents of the inlist 'LPV_inlist.dat' as needed, and execute the command:
-    python Theoretical_LPV.py
+$ python Theoretical_LPV.py
     
     
 For questions, contact: timothy.vanreeth at kuleuven.be

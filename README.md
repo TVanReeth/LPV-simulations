@@ -9,7 +9,7 @@ Python packages required to run the code, are:
 
 Other required software packages are:
 - the stellar evolution code MESA (https://docs.mesastar.org/)
-    the stellar pulsation code GYRE (https://gyre.readthedocs.io/)
+- the stellar pulsation code GYRE (https://gyre.readthedocs.io/)
 
 If the LPV-simulations software package is used, please reference:
 - Prat et al. (2019) (https://ui.adsabs.harvard.edu/abs/2019A%26A...627A..64P/abstract)

@@ -18,7 +18,8 @@ If the LPV-simulations software package is used, please reference:
     
 
 To use the LPV-simulations code, adapt the contents of the inlist 'LPV_inlist.dat' as needed, and execute the command:
-$ python Theoretical_LPV.py
+
+    $ python Theoretical_LPV.py
     
     
 For questions, contact: timothy.vanreeth at kuleuven.be

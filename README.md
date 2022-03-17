@@ -22,4 +22,4 @@ To use the LPV-simulations code, adapt the contents of the inlist 'LPV_inlist.da
     $ python Theoretical_LPV.py
     
     
-For questions, contact: timothy.vanreeth at kuleuven.be
+For questions and feedback, please contact: timothy.vanreeth at kuleuven.be

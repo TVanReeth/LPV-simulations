@@ -1,10 +1,10 @@
-    gyre_dir = /lhome/timothyv/Bin/mesa/mesa-11701/gyre/gyre/                                                              # GYRE installation directory
+    gyre_dir = /lhome/timothyv/Bin/gyre/gyre-6.0.1/                                                                        # GYRE installation directory
     
-    starmodel_file = /lhome/timothyv/PeterDeCat/HD112429/gyre_model/m150z140x071_mlt180_D000_fov075_profile391.data.GYRE   # MESA stellar input model
+    starmodel_file = ./test_models/M1p5_Z0014_X40_fov15_Dmix1.GYRE                                                         # MESA stellar input model
     incl_deg = 60.                                                                                                         # inclination angle in degrees
-    frot     = 1.5                                                                                                         # rotation frequency in d^{-1}
+    frot     = 1.50                                                                                                        # rotation frequency in d^{-1}
     
-    pulsation_filename = /lhome/timothyv/PeterDeCat/HD112429/gyre_model/frot_1500/HD112429_gmode_00041_l1m+1n-30.txt       # g-mode pulsation calculated with GYRE
+    pulsation_filename = ./test_models/HD112429_gmode_frot1500_l1m+1n-30.txt                                               # g-mode pulsation calculated with GYRE
     teff_ampl = 10.                                                                                                        # amplitude of the temperature variations caused by the pulsation; in Kelvin
     vel_ampl  = 5.                                                                                                         # amplitude of the velocity variations caused by the pulsations; in km/s
     
@@ -14,5 +14,5 @@
     rv_max = 300.                                                                                                          # max. radial velocity
     N_rv = 6001                                                                                                            # number of sampled RV points
     
-    outdir = /lhome/timothyv/PeterDeCat/HD112429/models/LPV_test/                                                          # output directory for the results
-    savefilename = m150z140x071_exp075_xc040_i60_1500_dt10_dv5_n-30k0m1.dat                                                # filename for the main output results
+    outdir = ./test_output/                                                                                                # output directory for the results
+    savefilename = m150z140x071_exp150_xc040_i60_0500_dt10_dv5_n-30k0m1.dat                                                # filename for the main output results

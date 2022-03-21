@@ -1,6 +1,6 @@
 # LPV-simulations
 
-This code allows you to build a toy model of spectral line profile variations (LPV) caused by (high-order) gravity-mode pulsations, as explained in the Appendix of Van Reeth et al. (2022, submitted). We refer the interested reader to this publication for a detailed mathematical description of this model. It relies on the Traditional Approximation of Rotation (TAR) module of GYRE, and uses the Hough function calculations presented by dr. Vincent Prat in Prat et al. (2019).
+This code allows you to build a toy model of spectral line profile variations (LPV) caused by (high-order) gravity-mode pulsations, as explained in the Appendix of Van Reeth et al. (2022, A&A, accepted). We refer the interested reader to this publication for a detailed mathematical description of this model. It relies on the Traditional Approximation of Rotation (TAR) module of GYRE, and uses the Hough function calculations presented by dr. Vincent Prat in Prat et al. (2019).
     
 Python packages required to run the code, are:
 - astropy

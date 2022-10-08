@@ -13,7 +13,7 @@ Other required software packages are:
 
 If the LPV-simulations software package is used, please reference:
 - Prat et al. (2019) (https://ui.adsabs.harvard.edu/abs/2019A%26A...627A..64P/abstract)
-- Van Reeth et al. (submitted)
+- Van Reeth et al. (2022) (https://ui.adsabs.harvard.edu/abs/2022A%26A...662A..58V/abstract)
 - We refer the user to the websites of MESA, GYRE and the various python packages for the most up-to-date acknowledgement requirements for these codes.
     
 
